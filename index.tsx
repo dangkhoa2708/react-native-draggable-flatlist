@@ -881,7 +881,7 @@ class RowItem extends React.PureComponent<RowItemProps> {
 
 const styles = StyleSheet.create({
   flex: {
-    flex: 1,
+//     flex: 1,
   },
   hoverComponentVertical: {
     position: 'absolute',
